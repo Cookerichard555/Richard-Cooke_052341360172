@@ -1,0 +1,97 @@
+/* This is Richard css  */
+body{
+     text-align: center;
+}
+h2{
+    font-weight: bolder;
+}
+#first{
+    background-color: #222831;
+}
+.navbar-brand{
+    padding: 2.8%;
+}
+.navbar{
+    background-color: #222831;
+}
+ /* Add custom CSS for overlay content */
+ .Image {
+    position: relative;
+    width: 100%;
+    margin: 0 auto; 
+}
+
+.Homepage-picture {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+#footer{
+    background-color: #76ABAE;
+    padding: 20px;
+}
+.col-lg-4 h1{
+    color: #31363F;
+}
+.col-lg-4 ul {
+    list-style: none;
+}
+.col-lg-4 ul li:hover{
+    color: aliceblue;
+}
+.col-lg-4 ul li a {
+    text-decoration: none;
+    color: #222831;
+}
+.col-lg-4 ul li a:hover{
+    color: aliceblue;
+}
+.copyright p{
+    text-align: center;
+    font-size: small;
+}
+
+/* Faculty css */
+.faculties{
+    background-color: #EEEE;
+}
+.table-mover{
+    padding: 40px;
+}
+.table-mover2{
+    padding: 0 40px 40px 40px;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+}
+
+#TimeTable-Title{
+    margin-top: 2.5rem;
+}
+.TimeTable-container{
+    background-color: #222831;
+    margin-top: 9.375rem;
+    width: 100%;
+    height: 150px;
+}
+.TimeTable-container h3{
+    color: #ffff;
+    text-align: center;
+    padding-top: 2.8125rem;
+}
+#content{
+    margin-bottom: 40px;
+}
